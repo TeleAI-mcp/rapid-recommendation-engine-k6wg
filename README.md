@@ -1,2 +1,3 @@
-# rapid-recommendation-engine-k6wg
-AI-powered recommendation system for modern development workflows
+# Rapid Recommendation Engine K6Wg
+
+A AI-powered recommendation system for modern development workflows.
